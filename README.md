@@ -1,4 +1,4 @@
-# learn_getx
+# FITBASKET
 
 A new Flutter project.
 
